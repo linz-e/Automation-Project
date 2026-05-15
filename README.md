@@ -3,7 +3,8 @@ This project is a complete Playwright automation suite built for the LoopQA tech
 It demonstrates data‑driven testing, reusable helper functions, dynamic selectors, and clean project structure.
 
 🗂 Project Structure
-Code
+
+```
 project-root/
 │
 ├── data/
@@ -19,6 +20,9 @@ project-root/
 ├── playwright.config.ts
 ├── package.json
 └── README.md
+```
+
+
 tasks.json
 Contains all test data.
 Each object represents one test case, including:
